@@ -32,4 +32,4 @@ Python | SQL | AWS (S3, Athena) | Power BI
 ## 📫 Connect
 
 LinkedIn: https://www.linkedin.com/in/soumyasree-mitra/
-Resume: https://drive.google.com/file/d/1jxBXr0U55wpUyuvtP4i75L_fiIjg31tr/view
+Resume: https://drive.google.com/file/d/1jxBXr0U55wpUyuvtP4iZ5L_fiIjq31tr/view?usp=drivesdk
