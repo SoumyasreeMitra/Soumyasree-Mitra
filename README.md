@@ -2,7 +2,7 @@
 
 Aspiring Data Analyst | SQL | Python | AWS | Power BI
 
-🎓 KIIT | CGPA: 9.6
+🎓 KIIT | CGPA: 9.61
 
 ## 💼 About Me
 
