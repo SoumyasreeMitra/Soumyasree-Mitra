@@ -70,8 +70,8 @@ My experience spans ETL pipelines, SQL analytics, cloud-based data processing, d
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: linkedin.com/in/soumyasree-mitra
-💻 GitHub: github.com/SoumyasreeMitra
+🔗LinkedIn: https://www.linkedin.com/in/soumyasree-mitra/ 
+Resume: https://drive.google.com/file/d/1a6SSMOu_-YVRoQYfo-wqBXWoDQJUz-M7/view 
 📧 Email: [soumyasreemitra2005@gmail.com](mailto:soumyasreemitra2005@gmail.com)
 
 Always open to opportunities in Data Analytics, AI/ML, Generative AI, and Software Development.
